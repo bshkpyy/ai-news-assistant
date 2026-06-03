@@ -55,7 +55,7 @@ ai-news-assistant/
 1. 克隆项目：
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bshkpyy/ai-news-assistant.git
 cd ai-news-assistant
 ```
 
